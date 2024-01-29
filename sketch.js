@@ -9,7 +9,7 @@ function setup() {
 
 function makeRedSquare(){
   noStroke();
-  fill(255, 0, 0);
+  fill(255, 255, 0);
   rect(random(0,300), random(0,300), 60, 60);
   counter++;
   if (counter > 5){
