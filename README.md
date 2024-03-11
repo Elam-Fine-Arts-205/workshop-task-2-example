@@ -21,3 +21,5 @@ You might organise your READEME file under different headings.
 ### Level 3 heading
 
 More text would go here under this heading.
+
+![apples](https://github.com/Elam-Fine-Arts-205/workshop_2_example/assets/156630095/a17ced3d-3648-4cc8-9489-701fa1e650de)
