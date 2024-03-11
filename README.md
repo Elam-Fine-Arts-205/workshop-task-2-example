@@ -22,4 +22,10 @@ You might organise your READEME file under different headings.
 
 More text would go here under this heading.
 
+## Adding images (and videos) 
+
+Here's a short video showing how to add images or videos to your README files:
+https://github.com/Elam-Fine-Arts-205/workshop_2_example/assets/156630095/7592e972-667a-404f-9c02-5eebf7a2a47b
+
+And here's an image of some apples:
 ![apples](https://github.com/Elam-Fine-Arts-205/workshop_2_example/assets/156630095/a17ced3d-3648-4cc8-9489-701fa1e650de)
