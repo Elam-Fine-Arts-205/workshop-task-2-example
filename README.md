@@ -1,6 +1,6 @@
 # workshop-task-2-example
 
-Here is a URL to the webpage for this project: https://elam-fine-arts-205.github.io/workshop_2_example/
+Here is a URL to the webpage for this project: [https://elam-fine-arts-205.github.io/workshop_2_example/](https://elam-fine-arts-205.github.io/workshop-task-2-example/)
 
 (Remember to include a link to the webpage in your README file)
 
