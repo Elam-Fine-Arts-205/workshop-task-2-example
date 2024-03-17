@@ -1,4 +1,4 @@
-# workshop_2_example
+# workshop-task-2-example
 
 Here is a URL to the webpage for this project: https://elam-fine-arts-205.github.io/workshop_2_example/
 
