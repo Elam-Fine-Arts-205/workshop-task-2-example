@@ -28,7 +28,7 @@ You can add an image or video by copying the image file (Ctrl C) on your compute
 
 When you've pasted the image, it should look something like this (the image will show once you've finished editing the README file):
 
-![screenshot](https://github.com/user-attachments/assets/0a93726a-9a8f-406d-8d3e-4b374dcb4b61)
+![screenshot2](https://github.com/user-attachments/assets/9abca749-73f7-4dad-98e2-7c489be3a120)
 
 Here's an image of some apples:
 
