@@ -24,8 +24,12 @@ More text would go here under this heading.
 
 ## Adding images (and videos) 
 
-Here's a short video showing how to add images or videos to your README files:
-https://github.com/Elam-Fine-Arts-205/workshop_2_example/assets/156630095/7592e972-667a-404f-9c02-5eebf7a2a47b
+You can add an image or video by copying the image file (Ctrl C) on your computer and pasting it (Ctrl V) into the README file as you're editing it.
 
-And here's an image of some apples:
-![apples](https://github.com/Elam-Fine-Arts-205/workshop_2_example/assets/156630095/a17ced3d-3648-4cc8-9489-701fa1e650de)
+When you've pasted the image, it should look something like this (the image will show once you've finished editing the README file):
+![image](https://github.com/user-attachments/assets/e2dfb8f4-84a8-4fee-ad57-39eac7f83e30)
+
+Here's an image of some apples: ![apples](https://github.com/user-attachments/assets/1e92bdc3-0957-476a-a303-ee0156a866f8)
+
+Alternatively, you can add images/videos by creating a folder in your repository and linking to them in the README file. If you don't want the images to be included in your repository, there's also a 'hack' you can do - here's a short video showing how:
+https://github.com/Elam-Fine-Arts-205/workshop_2_example/assets/156630095/7592e972-667a-404f-9c02-5eebf7a2a47b
