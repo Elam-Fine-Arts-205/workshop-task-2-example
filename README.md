@@ -35,7 +35,7 @@ function draw() {
   background(220);
 }
 ```
-Note that you can copy the code in an extract above using the button in the top-right corner.
+Note that you can copy the code in the extract above using the button in the top-right corner.
 
 ## Adding images
 
