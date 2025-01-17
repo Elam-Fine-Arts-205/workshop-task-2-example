@@ -22,6 +22,20 @@ You might organise your READEME file under different headings.
 
 More text would go here under this heading.
 
+## Adding code extracts (quoting code)
+
+Adding code extracts (quoting code) is very useful. See the [guidance on how to this](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-code). The extracts will be formatted like this: 
+
+```
+function setup() {
+  createCanvas(400, 400);
+}
+
+function draw() {
+  background(220);
+}
+```
+
 ## Adding images
 
 You can add an image by copying the image file (Ctrl+C) on your computer and pasting it (Ctrl+V) into the README file as you're editing it.
