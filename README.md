@@ -24,7 +24,7 @@ More text would go here under this heading.
 
 ## Adding code extracts (quoting code)
 
-Adding code extracts (quoting code) is very useful. See the [basic guidance on how to this](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-code). If you also use [syntax highlighting](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks#syntax-highlighting), i.e. by adding the word 'javascript' after three backticks, the extracts will be formatted like this: 
+Adding code extracts (quoting code) is very useful. See the [basic guidance on how to this](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-code). If you also use [syntax highlighting](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks#syntax-highlighting), i.e. by adding the word 'javascript' after the three backticks, code extracts will be formatted like this: 
 
 ```javascript
 function setup() {
