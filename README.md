@@ -26,7 +26,7 @@ More text would go here under this heading.
 
 Adding code extracts (quoting code) is very useful. See the [guidance on how to this](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-code). The extracts will be formatted like this: 
 
-```
+```javascript
 function setup() {
   createCanvas(400, 400);
 }
